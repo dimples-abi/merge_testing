@@ -1,2 +1,2 @@
 # merge_testing
-Here is some text to mess up the commit changes between remote and local
+Let's see if we can merge
